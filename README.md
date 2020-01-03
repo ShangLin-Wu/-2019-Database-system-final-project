@@ -1,3 +1,3 @@
-# 2019-Database-system-final-project
-## _Programming Language : Swift_
-## _Database : MongoDB_
+# 1st Sep. ,2019 of first year of master
+### Programming Language : Swift
+### Database : MongoDB
