@@ -1,0 +1,36 @@
+PODS:
+  - Cosmos (20.0.1)
+  - Realm (4.2.0):
+    - Realm/Headers (= 4.2.0)
+  - Realm/Headers (4.2.0)
+  - RealmSwift (4.2.0):
+    - Realm (= 4.2.0)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - Cosmos
+  - RealmSwift
+  - SDWebImage
+  - Toast
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - Toast
+
+SPEC CHECKSUMS:
+  Cosmos: b47fddf2102bb48580cd3025d9ce0a5c658a65da
+  Realm: 24f62307291e35ca9ba69f4d5e7214142543b12d
+  RealmSwift: eec89a12ff5ff09f365519c64591ab297acbbb40
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: 0a7e812fae782d50d7046efb71a2125001e5438b
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-DatabaseSystemProject/Pods-DatabaseSystemProject-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Cosmos/Cosmos.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/Toast/Toast.framework
